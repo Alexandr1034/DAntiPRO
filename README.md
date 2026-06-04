@@ -12,9 +12,4 @@ DAntiPRO - это мой антивирус, написанный на язык�
 
 
 Скачать DAntiPRO 1.0.0 (Новейшая версия) на Windows 7, 10, 11 бесплатно:
-
-https://www.dropbox.com/scl/fi/o3pmjbupj7thsm7hf1027/DAntiPRO_1.0.0.exe?rlkey=guo27lb2r79qhvuez4brqcnhf&st=td2jx9l2&dl=0 (Drop Box)
-
-https://drive.google.com/file/d/1bAuMaWOPZQpYFB9lZjL8x3HAlmDsHb35/view?usp=sharing (Google Диск)
-
-https://disk.yandex.ru/d/FjpFCBpHWmz-sA (Яндекс Диск)
+https://github.com/Alexandr1034/DAntiPRO
